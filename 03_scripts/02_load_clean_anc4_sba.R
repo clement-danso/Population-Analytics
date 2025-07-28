@@ -20,13 +20,12 @@ anc4_sba_cleaned <- anc4_sba_df %>%
     obs_value          # Coverage percentage
   ) %>%
 
-  # Extract ISO3 code from ref_area (example: "AFG: Afghanistan" -> "AFG")
-  mutate(iso3_code = str_extract(ref_area, "^[A-Z]{3}")) %>%
+  # Extract ISO3 code from ref_area 
+  mutate(iso3_code = str_extract(ref_area, "^[A-Z]{3}")) %>%   #merge key
   
   # Only keeping 3-letter country codes- purposely to filter out countries and not regions
   filter(grepl("^[A-Z]{3}:", ref_area))  
 
-View(anc4_sba_cleaned)
 
 # Filter for ANC4 and SBA coverage estimates from 2018 to 2022
 # Use the most recent estimate within this range per country

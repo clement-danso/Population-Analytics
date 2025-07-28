@@ -26,7 +26,7 @@ population_df_cleaned <- population_df %>%
     total_population_as_of_1_july_thousands
   ) %>%
   rename(
-    iso3_code = iso3_alpha_code,
+    iso3_code = iso3_alpha_code, # merge key
     country_name = region_subregion_country_or_area,
     births_2022_thousands = births_thousands,
     population_2022_thousands = total_population_as_of_1_july_thousands
