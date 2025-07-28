@@ -1,238 +1,175 @@
-ref_area,indicator,time_period,obs_value
-AFG: Afghanistan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,27.6
-AFG: Afghanistan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,61.8
-AIA: Anguilla,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-ALB: Albania,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,77.8
-ALB: Albania,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,100
-ARE: United Arab Emirates,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.9
-ARG: Argentina,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,90.4
-ARG: Argentina,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,98.8
-ATG: Antigua and Barbuda,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99
-AUS: Australia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.7
-AUT: Austria,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,98.1
-AZE: Azerbaijan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.9
-BDI: Burundi,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,75.2
-BEN: Benin,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,52.6
-BEN: Benin,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,80.8
-BFA: Burkina Faso,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,72.1
-BFA: Burkina Faso,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,95.8
-BGD: Bangladesh,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,38.3
-BGD: Bangladesh,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,69.8
-BGR: Bulgaria,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,94.5
-BHR: Bahrain,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,98.2
-BHS: Bahamas,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99
-BIH: Bosnia and Herzegovina,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.9
-BLR: Belarus,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,99.9
-BLR: Belarus,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.9
-BLZ: Belize,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,94.6
-BMU: Bermuda,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.8
-BOL: Bolivia (Plurinational State of),MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,71.5
-BRA: Brazil,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,92.3
-BRA: Brazil,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.2
-BRB: Barbados,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,98.4
-BRN: Brunei Darussalam,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.6
-BTN: Bhutan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.9
-BWA: Botswana,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.8
-CAF: Central African Republic,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,41.4
-CAF: Central African Republic,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,40.3
-CAN: Canada,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,97.6
-CHL: Chile,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99.8
-CHN: China,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,92.9
-CIV: Côte d'Ivoire,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,56.3
-CIV: Côte d'Ivoire,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,84
-CMR: Cameroon,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,64.9
-CMR: Cameroon,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,69
-COD: Democratic Republic of the Congo,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,42.9
-COD: Democratic Republic of the Congo,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,85.2
-COL: Colombia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,97.5
-COM: Comoros,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,64.3
-COM: Comoros,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,97.2
-CPV: Cabo Verde,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,85.6
-CPV: Cabo Verde,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,97.3
-CRI: Costa Rica,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,94.1
-CRI: Costa Rica,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.8
-CUB: Cuba,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,79.3
-CUB: Cuba,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.9
-CYP: Cyprus,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.9
-DEU: Germany,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,96.3
-DMA: Dominica,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-DNK: Denmark,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,96.4
-DOM: Dominican Republic,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,92.6
-DOM: Dominican Republic,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,99.2
-DZA: Algeria,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,69.8
-DZA: Algeria,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,98.8
-ECU: Ecuador,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,96.3
-EGY: Egypt,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,89.9
-EGY: Egypt,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,97.1
-ESP: Spain,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.9
-EST: Estonia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.1
-ETH: Ethiopia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,43
-ETH: Ethiopia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,49.8
-FIN: Finland,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.5
-FJI: Fiji,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,88.7
-FJI: Fiji,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.8
-FRA: France,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,97.3
-GAB: Gabon,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,77.8
-GAB: Gabon,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,95.2
-GEO: Georgia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,85.2
-GEO: Georgia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.7
-GHA: Ghana,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,87.8
-GHA: Ghana,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,78.9
-GIN: Guinea,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,58.3
-GIN: Guinea,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,55.3
-GMB: Gambia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,78.5
-GMB: Gambia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,83.8
-GNB: Guinea-Bissau,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,80.7
-GNB: Guinea-Bissau,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,53.8
-GRC: Greece,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.9
-GRD: Grenada,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-GUY: Guyana,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,84.7
-GUY: Guyana,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,97.6
-HND: Honduras,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,88.3
-HND: Honduras,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,94.1
-HRV: Croatia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,96.5
-HRV: Croatia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,99.9
-IDN: Indonesia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,94.7
-IND: India,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,58.4
-IND: India,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,89.4
-IRL: Ireland,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99.6
-IRQ: Iraq,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,67.9
-IRQ: Iraq,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,95.6
-ISL: Iceland,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,97.4
-ITA: Italy,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.4
-JAM: Jamaica,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.8
-JOR: Jordan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,91.5
-JOR: Jordan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,99.7
-JPN: Japan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.8
-KAZ: Kazakhstan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,99.9
-KEN: Kenya,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,66
-KEN: Kenya,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,89.3
-KGZ: Kyrgyzstan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,89
-KGZ: Kyrgyzstan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-KHM: Cambodia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,86
-KHM: Cambodia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,98.7
-KIR: Kiribati,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,67
-KIR: Kiribati,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,91.9
-KNA: Saint Kitts and Nevis,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-KOR: Republic of Korea,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-KWT: Kuwait,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.2
-LBR: Liberia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,87.3
-LBR: Liberia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,84.4
-LCA: Saint Lucia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-LSO: Lesotho,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,76.6
-LSO: Lesotho,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,86.6
-LTU: Lithuania,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,100
-LVA: Latvia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,98.1
-MAR: Morocco,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,53.5
-MAR: Morocco,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,86.6
-MDA: Republic of Moldova,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.7
-MDG: Madagascar,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,59.9
-MDG: Madagascar,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,45.8
-MEX: Mexico,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,87.5
-MKD: North Macedonia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,95.7
-MKD: North Macedonia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-MLI: Mali,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,43.3
-MLI: Mali,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,67.3
-MLT: Malta,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.8
-MNE: Montenegro,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,94.2
-MNE: Montenegro,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,98.8
-MNG: Mongolia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,88.5
-MNG: Mongolia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,99.3
-MOZ: Mozambique,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,51
-MRT: Mauritania,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,38.5
-MRT: Mauritania,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,70.4
-MSR: Montserrat,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-MUS: Mauritius,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99.7
-MWI: Malawi,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,50.5
-MWI: Malawi,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,96.4
-MYS: Malaysia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,98.1
-MYS: Malaysia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.8
-NER: Niger,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,37.3
-NER: Niger,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,43.7
-NGA: Nigeria,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,60.4
-NGA: Nigeria,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,50.7
-NOR: Norway,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.1
-NPL: Nepal,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,80.5
-NPL: Nepal,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,80.1
-NZL: New Zealand,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,95.8
-OMN: Oman,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,73.9
-OMN: Oman,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,100
-PAK: Pakistan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,52.4
-PAK: Pakistan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,68
-PAN: Panama,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,92.5
-PER: Peru,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,95.8
-PER: Peru,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,94.9
-PHL: Philippines,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,83
-PHL: Philippines,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,89.6
-PLW: Palau,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,98.7
-PNG: Papua New Guinea,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,49
-PNG: Papua New Guinea,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,56.4
-POL: Poland,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.6
-PRT: Portugal,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,97.3
-PRY: Paraguay,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,81
-PRY: Paraguay,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,91.2
-PSE: State of Palestine,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,94.8
-PSE: State of Palestine,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99.7
-QAT: Qatar,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-ROU: Romania,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,70.1
-ROU: Romania,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,94.7
-RUS: Russian Federation,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.7
-RWA: Rwanda,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,47.2
-RWA: Rwanda,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,94.2
-SAU: Saudi Arabia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,79.7
-SAU: Saudi Arabia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,94.8
-SEN: Senegal,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,29.2
-SEN: Senegal,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,74.5
-SGP: Singapore,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.5
-SLE: Sierra Leone,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,78.8
-SLE: Sierra Leone,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,86.9
-SLV: El Salvador,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.1
-SOM: Somalia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,24.4
-SOM: Somalia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,31.9
-SRB: Serbia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,96.6
-SRB: Serbia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,99.9
-SSD: South Sudan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,31.1
-SSD: South Sudan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,39.7
-STP: Sao Tome and Principe,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,96.8
-SUR: Suriname,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,67.5
-SUR: Suriname,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-SVK: Slovakia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,98.1
-SWZ: Eswatini,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,73.5
-SWZ: Eswatini,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,93.4
-SYC: Seychelles,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.8
-TCA: Turks and Caicos Islands,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,93.2
-TCA: Turks and Caicos Islands,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,100
-TCD: Chad,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,47.2
-THA: Thailand,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,88.3
-THA: Thailand,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.6
-TKM: Turkmenistan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,97.6
-TKM: Turkmenistan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99.7
-TLS: Timor-Leste,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,83.1
-TON: Tonga,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,88.5
-TON: Tonga,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,98.3
-TUN: Tunisia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,84.1
-TUN: Tunisia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,99.5
-TUR: Türkiye,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,89.7
-TUR: Türkiye,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,97
-TUV: Tuvalu,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,60.3
-TUV: Tuvalu,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,99.5
-TZA: United Republic of Tanzania,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,65.1
-TZA: United Republic of Tanzania,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,85
-UGA: Uganda,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2018,56.7
-UGA: Uganda,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,91
-URY: Uruguay,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,97.3
-URY: Uruguay,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,100
-USA: United States,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,98.6
-UZB: Uzbekistan,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2022,89.5
-UZB: Uzbekistan,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2022,99
-VCT: Saint Vincent and the Grenadines,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,99
-VEN: Venezuela (Bolivarian Republic of),MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2018,98.7
-VNM: Viet Nam,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,88.2
-VNM: Viet Nam,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2021,96.1
-WSM: Samoa,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2021,69.8
-WSM: Samoa,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2020,88.9
-XKX: Kosovo (UNSCR 1244),MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2020,94.4
-ZMB: Zambia,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,63.5
-ZMB: Zambia,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,80.4
-ZWE: Zimbabwe,MNCH_ANC4: Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,2019,71.5
-ZWE: Zimbabwe,MNCH_SAB: Skilled birth attendant - percentage of deliveries attended by skilled health personnel,2019,86
+iso3_code,ref_area,time_period,anc4_coverage,sba_coverage
+AFG,AFG: Afghanistan,2020,27.6,61.8
+AIA,AIA: Anguilla,2020,NA,100
+ALB,ALB: Albania,2018,77.8,NA
+ALB,ALB: Albania,2022,NA,100
+ARE,ARE: United Arab Emirates,2022,NA,99.9
+ARG,ARG: Argentina,2020,90.4,98.8
+ATG,ATG: Antigua and Barbuda,2020,NA,99
+AUS,AUS: Australia,2021,NA,98.7
+AUT,AUT: Austria,2022,NA,98.1
+AZE,AZE: Azerbaijan,2022,NA,99.9
+BDI,BDI: Burundi,2022,NA,75.2
+BEN,BEN: Benin,2022,52.6,80.8
+BFA,BFA: Burkina Faso,2021,72.1,95.8
+BGD,BGD: Bangladesh,2022,38.3,69.8
+BGR,BGR: Bulgaria,2021,NA,94.5
+BHR,BHR: Bahrain,2020,NA,98.2
+BHS,BHS: Bahamas,2020,NA,99
+BIH,BIH: Bosnia and Herzegovina,2021,NA,99.9
+BLR,BLR: Belarus,2019,99.9,NA
+BLR,BLR: Belarus,2022,NA,99.9
+BLZ,BLZ: Belize,2020,NA,94.6
+BMU,BMU: Bermuda,2021,NA,99.8
+BOL,BOL: Bolivia (Plurinational State of),2022,NA,71.5
+BRA,BRA: Brazil,2021,92.3,98.2
+BRB,BRB: Barbados,2020,NA,98.4
+BRN,BRN: Brunei Darussalam,2021,NA,99.6
+BTN,BTN: Bhutan,2021,NA,98.9
+BWA,BWA: Botswana,2021,NA,99.8
+CAF,CAF: Central African Republic,2019,41.4,40.3
+CAN,CAN: Canada,2021,NA,97.6
+CHL,CHL: Chile,2020,NA,99.8
+CHN,CHN: China,2018,92.9,NA
+CIV,CIV: Côte d'Ivoire,2021,56.3,84
+CMR,CMR: Cameroon,2018,64.9,69
+COD,COD: Democratic Republic of the Congo,2018,42.9,85.2
+COL,COL: Colombia,2021,NA,97.5
+COM,COM: Comoros,2022,64.3,97.2
+CPV,CPV: Cabo Verde,2018,85.6,97.3
+CRI,CRI: Costa Rica,2018,94.1,NA
+CRI,CRI: Costa Rica,2021,NA,98.8
+CUB,CUB: Cuba,2019,79.3,NA
+CUB,CUB: Cuba,2021,NA,99.9
+CYP,CYP: Cyprus,2021,NA,99.9
+DEU,DEU: Germany,2021,NA,96.3
+DMA,DMA: Dominica,2020,NA,100
+DNK,DNK: Denmark,2022,NA,96.4
+DOM,DOM: Dominican Republic,2019,92.6,99.2
+DZA,DZA: Algeria,2019,69.8,98.8
+ECU,ECU: Ecuador,2020,NA,96.3
+EGY,EGY: Egypt,2021,89.9,97.1
+ESP,ESP: Spain,2022,NA,99.9
+EST,EST: Estonia,2022,NA,99.1
+ETH,ETH: Ethiopia,2019,43,49.8
+FIN,FIN: Finland,2021,NA,99.5
+FJI,FJI: Fiji,2021,88.7,99.8
+FRA,FRA: France,2021,NA,97.3
+GAB,GAB: Gabon,2021,77.8,95.2
+GEO,GEO: Georgia,2020,85.2,NA
+GEO,GEO: Georgia,2022,NA,99.7
+GHA,GHA: Ghana,2022,87.8,NA
+GHA,GHA: Ghana,2018,NA,78.9
+GIN,GIN: Guinea,2021,58.3,NA
+GIN,GIN: Guinea,2018,NA,55.3
+GMB,GMB: Gambia,2020,78.5,83.8
+GNB,GNB: Guinea-Bissau,2019,80.7,53.8
+GRC,GRC: Greece,2022,NA,99.9
+GRD,GRD: Grenada,2020,NA,100
+GUY,GUY: Guyana,2020,84.7,97.6
+HND,HND: Honduras,2019,88.3,94.1
+HRV,HRV: Croatia,2022,96.5,NA
+HRV,HRV: Croatia,2019,NA,99.9
+IDN,IDN: Indonesia,2019,NA,94.7
+IND,IND: India,2021,58.4,89.4
+IRL,IRL: Ireland,2020,NA,99.6
+IRQ,IRQ: Iraq,2018,67.9,95.6
+ISL,ISL: Iceland,2020,NA,97.4
+ITA,ITA: Italy,2021,NA,99.4
+JAM,JAM: Jamaica,2021,NA,99.8
+JOR,JOR: Jordan,2018,91.5,99.7
+JPN,JPN: Japan,2022,NA,99.8
+KAZ,KAZ: Kazakhstan,2018,NA,99.9
+KEN,KEN: Kenya,2022,66,89.3
+KGZ,KGZ: Kyrgyzstan,2021,89,NA
+KGZ,KGZ: Kyrgyzstan,2020,NA,100
+KHM,KHM: Cambodia,2022,86,98.7
+KIR,KIR: Kiribati,2019,67,91.9
+KNA,KNA: Saint Kitts and Nevis,2021,NA,100
+KOR,KOR: Republic of Korea,2021,NA,100
+KWT,KWT: Kuwait,2022,NA,99.2
+LBR,LBR: Liberia,2020,87.3,84.4
+LCA,LCA: Saint Lucia,2021,NA,100
+LSO,LSO: Lesotho,2018,76.6,86.6
+LTU,LTU: Lithuania,2022,NA,100
+LVA,LVA: Latvia,2022,NA,98.1
+MAR,MAR: Morocco,2018,53.5,86.6
+MDA,MDA: Republic of Moldova,2022,NA,99.7
+MDG,MDG: Madagascar,2021,59.9,45.8
+MEX,MEX: Mexico,2022,NA,87.5
+MKD,MKD: North Macedonia,2019,95.7,NA
+MKD,MKD: North Macedonia,2021,NA,100
+MLI,MLI: Mali,2018,43.3,67.3
+MLT,MLT: Malta,2022,NA,99.8
+MNE,MNE: Montenegro,2018,94.2,98.8
+MNG,MNG: Mongolia,2018,88.5,99.3
+MOZ,MOZ: Mozambique,2018,51,NA
+MRT,MRT: Mauritania,2021,38.5,70.4
+MSR,MSR: Montserrat,2020,NA,100
+MUS,MUS: Mauritius,2021,NA,99.7
+MWI,MWI: Malawi,2020,50.5,96.4
+MYS,MYS: Malaysia,2022,98.1,99.8
+NER,NER: Niger,2021,37.3,43.7
+NGA,NGA: Nigeria,2021,60.4,50.7
+NOR,NOR: Norway,2022,NA,99.1
+NPL,NPL: Nepal,2022,80.5,80.1
+NZL,NZL: New Zealand,2021,NA,95.8
+OMN,OMN: Oman,2019,73.9,NA
+OMN,OMN: Oman,2022,NA,100
+PAK,PAK: Pakistan,2019,52.4,NA
+PAK,PAK: Pakistan,2020,NA,68
+PAN,PAN: Panama,2021,NA,92.5
+PER,PER: Peru,2020,95.8,NA
+PER,PER: Peru,2021,NA,94.9
+PHL,PHL: Philippines,2022,83,89.6
+PLW,PLW: Palau,2022,NA,98.7
+PNG,PNG: Papua New Guinea,2018,49,56.4
+POL,POL: Poland,2022,NA,99.6
+PRT,PRT: Portugal,2022,NA,97.3
+PRY,PRY: Paraguay,2021,81,91.2
+PSE,PSE: State of Palestine,2020,94.8,99.7
+QAT,QAT: Qatar,2021,NA,100
+ROU,ROU: Romania,2021,70.1,94.7
+RUS,RUS: Russian Federation,2022,NA,99.7
+RWA,RWA: Rwanda,2020,47.2,94.2
+SAU,SAU: Saudi Arabia,2019,79.7,94.8
+SEN,SEN: Senegal,2021,29.2,NA
+SEN,SEN: Senegal,2019,NA,74.5
+SGP,SGP: Singapore,2022,NA,99.5
+SLE,SLE: Sierra Leone,2019,78.8,86.9
+SLV,SLV: El Salvador,2021,NA,98.1
+SOM,SOM: Somalia,2019,24.4,31.9
+SRB,SRB: Serbia,2019,96.6,99.9
+SSD,SSD: South Sudan,2020,31.1,39.7
+STP,STP: Sao Tome and Principe,2019,NA,96.8
+SUR,SUR: Suriname,2018,67.5,NA
+SUR,SUR: Suriname,2021,NA,100
+SVK,SVK: Slovakia,2022,NA,98.1
+SWZ,SWZ: Eswatini,2022,73.5,93.4
+SYC,SYC: Seychelles,2022,NA,99.8
+TCA,TCA: Turks and Caicos Islands,2020,93.2,100
+TCD,TCD: Chad,2019,NA,47.2
+THA,THA: Thailand,2022,88.3,99.6
+TKM,TKM: Turkmenistan,2019,97.6,NA
+TKM,TKM: Turkmenistan,2022,NA,99.7
+TLS,TLS: Timor-Leste,2020,83.1,NA
+TON,TON: Tonga,2019,88.5,98.3
+TUN,TUN: Tunisia,2018,84.1,99.5
+TUR,TUR: Türkiye,2018,89.7,NA
+TUR,TUR: Türkiye,2019,NA,97
+TUV,TUV: Tuvalu,2020,60.3,99.5
+TZA,TZA: United Republic of Tanzania,2022,65.1,85
+UGA,UGA: Uganda,2018,56.7,NA
+UGA,UGA: Uganda,2022,NA,91
+URY,URY: Uruguay,2022,97.3,NA
+URY,URY: Uruguay,2021,NA,100
+USA,USA: United States,2021,NA,98.6
+UZB,UZB: Uzbekistan,2022,89.5,99
+VCT,VCT: Saint Vincent and the Grenadines,2021,NA,99
+VEN,VEN: Venezuela (Bolivarian Republic of),2018,NA,98.7
+VNM,VNM: Viet Nam,2021,88.2,96.1
+WSM,WSM: Samoa,2021,69.8,NA
+WSM,WSM: Samoa,2020,NA,88.9
+XKX,XKX: Kosovo (UNSCR 1244),2020,94.4,NA
+ZMB,ZMB: Zambia,2019,63.5,80.4
+ZWE,ZWE: Zimbabwe,2019,71.5,86
