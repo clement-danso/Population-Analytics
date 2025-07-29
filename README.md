@@ -37,13 +37,13 @@ Sequential R scripts that perform the complete analysis:
 - `03_load_u5mr_classification.R` - Handles country classifications
 - `04_merge_datasets.R` - Combines all cleaned datasets
 - `05_calculate_weighted_coverage.R` - Performs population-weighted analysis
-- `06_generate_report.R` - Creates visualizations and reports
+- `06_generate_maternal_health_report.Rmd` - R Markdown template for final report generation
 
 ### **04_output/**
 Contains all analysis results and final outputs:
 - `merged_data.csv` - Complete integrated dataset
 - `population_weighted_coverage.csv` - Key coverage metrics and findings
-- `maternal_health_report.html` - Professional analysis report with visualizations
+- `06_generate_maternal_health_report.html` - Professional analysis report with visualizations
 
 ### **utils/**
 Helper files and utilities:
@@ -90,7 +90,7 @@ Master execution script that runs the complete analysis workflow:
    ```
 
 4. **Access the results**
-   - Open `04_output/maternal_health_report.html` for the complete analysis report
+   - Open `04_output/06_generate_maternal_health_report.html` for the complete analysis report
    - Check `04_output/population_weighted_coverage.csv` for key findings
    - Review `04_output/merged_data.csv` for the complete dataset
 

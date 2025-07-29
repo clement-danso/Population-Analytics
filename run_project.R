@@ -65,27 +65,29 @@ check_outputs <- function() {
   return(length(missing_outputs) == 0)
 }
 
-# Function to generate final report
-generate_final_report <- function() {
+# Function to generate maternal health report from R Markdown
+generate_maternal_health_report <- function() {
   cat("\n" + "="*50 + "\n")
-  cat("GENERATING FINAL REPORT\n")
+  cat("GENERATING MATERNAL HEALTH REPORT\n")
   cat("="*50 + "\n")
   
   tryCatch({
     # Check if R Markdown file exists
-    if (!file.exists("04_output/maternal_health_report.Rmd")) {
+    if (!file.exists("03_scripts/06_generate_maternal_health_report.Rmd")) {
       cat("ERROR: R Markdown template not found. Creating basic report...\n")
       create_basic_report()
+      return(FALSE)
     } else {
       cat("INFO: Rendering comprehensive maternal health report...\n")
-      rmarkdown::render("04_output/maternal_health_report.Rmd", 
+      rmarkdown::render("03_scripts/06_generate_maternal_health_report.Rmd", 
                        output_format = "html_document",
+                       output_dir = "04_output",
                        quiet = FALSE)
     }
     
-    if (file.exists("04_output/maternal_health_report.html")) {
-      file_size <- file.size("04_output/maternal_health_report.html")
-      cat("SUCCESS: Report generated: maternal_health_report.html (", round(file_size/1024, 1), "KB)\n")
+    if (file.exists("04_output/06_generate_maternal_health_report.html")) {
+      file_size <- file.size("04_output/06_generate_maternal_health_report.html")
+      cat("SUCCESS: Report generated: 06_generate_maternal_health_report.html (", round(file_size/1024, 1), "KB)\n")
       return(TRUE)
     } else {
       cat("ERROR: Report generation failed\n")
@@ -95,6 +97,11 @@ generate_final_report <- function() {
     cat("ERROR: Error generating report:", e$message, "\n")
     return(FALSE)
   })
+}
+
+# Function to generate final report (kept for compatibility)
+generate_final_report <- function() {
+  return(generate_maternal_health_report())
 }
 
 # Function to create a basic report if template is missing
@@ -177,10 +184,7 @@ main_workflow <- function() {
   
   # Step 4: Report Generation
   cat("\nPHASE 4: REPORT GENERATION\n")
-  step4_success <- run_script_with_progress(
-    "03_scripts/06_generate_report.R", 
-    "Report Generation"
-  )
+  step4_success <- generate_maternal_health_report()
   
   # Verify outputs
   outputs_ok <- check_outputs()
