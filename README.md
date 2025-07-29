@@ -9,8 +9,7 @@ Population-Analytics/
 ├── 01_rawdata/                    # Original UNICEF datasets
 ├── 02_cleaned/                    # Processed and cleaned datasets  
 ├── 03_scripts/                    # R scripts for data processing and analysis
-├── 04_output/                     # Generated reports and visualizations
-├── utils/                         # Utility functions and helpers
+├── 04_output/                     # Generated reports, visualizations and outputs
 ├── user_profile.R                 # Environment setup and validation
 ├── run_project.R                  # Complete workflow execution
 └── README.md                      # This file
@@ -45,9 +44,7 @@ Contains all analysis results and final outputs:
 - `population_weighted_coverage.csv` - Key coverage metrics and findings
 - `06_generate_maternal_health_report.html` - Professional analysis report with visualizations
 
-### **utils/**
-Helper files and utilities:
-- Contains additional utility functions and configuration files
+
 
 ### **user_profile.R**
 Environment setup script that ensures the project can run on any machine:
