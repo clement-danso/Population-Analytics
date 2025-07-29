@@ -28,7 +28,6 @@ setup_environment <- function() {
     "tidyr",        # Data tidying
     "readr",        # Fast file reading
     "stringr",      # String manipulation
-    "lubridate",    # Date handling
     "knitr",        # Report generation
     "rmarkdown",    # R Markdown support
     "scales",       # Scale functions for ggplot2
