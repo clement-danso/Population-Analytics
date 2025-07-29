@@ -15,6 +15,10 @@ output:
     toc: true
 ---
 
+**Positions Applied For:**
+- Household Survey Data Analyst Consultant - Req. #581656
+- Microdata Harmonization Consultant – Req. #581699
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.width = 10, fig.height = 6)
 
@@ -44,8 +48,8 @@ Population-weighted averages ensure that countries with larger populations have 
 
 ```{r load-data}
 # Load the analysis results
-weighted_coverage <- read_csv("population_weighted_coverage.csv")
-merged_df <- read_csv("merged_data.csv")
+weighted_coverage <- read_csv("../04_output/population_weighted_coverage.csv")
+merged_df <- read_csv("../04_output/merged_data.csv")
 
 # Display data summary
 kable(weighted_coverage, 
@@ -194,6 +198,12 @@ The analysis reveals significant disparities in maternal health coverage between
 ## Conclusions
 
 This analysis demonstrates clear maternal health coverage disparities between countries on different trajectories for SDG 3.1 achievement. The population-weighted approach provides valuable insights into the global burden of inadequate maternal health access, highlighting the urgent need for targeted interventions in off-track countries to ensure equitable progress toward universal health coverage.
+
+---
+
+**Positions Applied For:**
+- Household Survey Data Analyst Consultant - Req. #581656
+- Microdata Harmonization Consultant – Req. #581699
 
 ---
 

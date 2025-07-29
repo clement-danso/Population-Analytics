@@ -109,4 +109,10 @@ After successful execution, you will have:
 
 ---
 
+**Positions Applied For:**
+- Household Survey Data Analyst Consultant - Req. #581656
+- Microdata Harmonization Consultant – Req. #581699
+
+---
+
 *This work was completed as part of a UNICEF assessment. Please respect the data usage guidelines.*
