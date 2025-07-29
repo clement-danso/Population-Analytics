@@ -199,12 +199,5 @@ The analysis reveals significant disparities in maternal health coverage between
 
 This analysis demonstrates clear maternal health coverage disparities between countries on different trajectories for SDG 3.1 achievement. The population-weighted approach provides valuable insights into the global burden of inadequate maternal health access, highlighting the urgent need for targeted interventions in off-track countries to ensure equitable progress toward universal health coverage.
 
----
-
-**Positions Applied For:**
-- Household Survey Data Analyst Consultant - Req. #581656
-- Microdata Harmonization Consultant – Req. #581699
-
----
 
 *Report generated on `r Sys.Date()` using R Markdown*
